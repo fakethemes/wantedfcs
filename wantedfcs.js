@@ -1,4 +1,3 @@
-<script>
 const contentLoaded = function() {
     buildLayout();
     concatValues();
@@ -78,4 +77,3 @@ function debounce( fn, threshold ) {
     timeout = setTimeout( delayed, threshold );
   };
 }
-</script>
